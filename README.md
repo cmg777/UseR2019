@@ -1,5 +1,7 @@
 # Measuring inequalities from space. Analysis of satellite raster images with R
 
+[Video presentation](https://youtu.be/L5-5-kX7GQU?t=290)
+
 ## Abstract
 
 Data on night-time light intensity is increasingly used by social science researchers as a proxy for economic development. Calculated from weather satellite recordings, it provides annual data for the whole globe in gridded format with pixels covering less than one square kilometer. This allows researchers to aggregate these data at the level of subnational units and analyze it together with other socio-economic indicators. Satellite images are freely available as large raster files. 
